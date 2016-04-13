@@ -1,0 +1,2 @@
+temperature = float(input("Temperature? "))
+
